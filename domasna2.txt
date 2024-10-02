@@ -1,0 +1,2 @@
+mislam deka nauciv kako da dodavam tekst
+tekst>>domasna2.txt
